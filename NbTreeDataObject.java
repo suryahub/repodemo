@@ -12,6 +12,7 @@ public class NbTreeDataObject {
 	private List<ClassifierStatistics> nBClassifierList;
 	
 	private List<ClassifierStatistics> nBTreeClassifierList;
+//method getClassifierList
 
 	public List<ClassifierStatistics> getC45ClassifierList() {
 		return c45ClassifierList;
